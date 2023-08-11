@@ -1,9 +1,8 @@
 # Bright-to-Right-StatQuest
 
 ## Overview
-Bright-to-Right is a project designed to address an issue with StatQuest videos: excessively bright backgrounds. By inverting the colors, this tool enhances the viewing experience, allowing for more comfortable learning.
+Bright-to-Right is a project designed to address an issue with StatQuest videos: excessively bright backgrounds. By inverting the colors, this tool enhances the viewing experience, allowing for more comfortable learning. This project is not limited to statquest. It can be applied to other channels / videos.
 
-This project is not limited to statquest. It can be applied to other channels / videos.
 ![Flowchart](https://showme.redstarplugin.com/d/MGQLkO4a)
 
 ## Usage
