@@ -6,6 +6,7 @@ Bright-to-Right is a project designed to address an issue with StatQuest videos:
 ![Flowchart](https://showme.redstarplugin.com/d/MGQLkO4a)
 
 ## Usage
+This project can also be done on videos / creators besides statquest.
 To explore the functionality of this project, clone the repository and follow the instructions detailed in `main.ipynb`.
 
 Note: If the invert_video() doesn't work, try restarting the Jupyter Notebook
