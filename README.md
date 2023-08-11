@@ -3,7 +3,7 @@
 ## Overview
 Bright-to-Right is a project designed to address an issue with StatQuest videos: excessively bright backgrounds. By inverting the colors, this tool enhances the viewing experience, allowing for more comfortable learning.
 
-![Flowchart](https://showme.redstarplugin.com/d/Ld6Yb3Pz)
+![Flowchart](https://showme.redstarplugin.com/d/MGQLkO4a)
 
 ## Usage
 To explore the functionality of this project, clone the repository and follow the instructions detailed in `main.ipynb`.
@@ -11,7 +11,7 @@ To explore the functionality of this project, clone the repository and follow th
 ## Technologies Utilized
 - **Selenium**: Web scraping to obtain relevant YouTube titles.
 - **yt-dlp & youtube-search-python**: Downloading video files.
-- **numpy**: Color inversion processing for the videos.
+- **moviepy**: Color inversion processing for the videos.
 
 ## Functionality
 - **Scraper.py**: Extracts specific StatQuest titles using Selenium.
